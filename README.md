@@ -1,1 +1,1 @@
-# Activity: Restaurant Menu A
+# Activity: Restaurant Menu
